@@ -1,0 +1,2 @@
+This is the lecture 3 of learning DSA with c++
+Topic is - Variable in c++ and Output/Input
