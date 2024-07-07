@@ -1,7 +1,6 @@
-#include <iostream>
+#include<iostream>
 using namespace std;
-
-int main() {
-    cout << "Hello, World!" << endl; // cout is Use for print in cpp
-    return 0;
+int main(){
+    //to print hello world in c++
+    cout<<"Hello world"<<endl;
 }
