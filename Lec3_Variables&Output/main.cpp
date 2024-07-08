@@ -1,8 +1,7 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
 int main(){
-    //to print hello world in c++
-    cout<<"Hello world"<<endl;
+    cout<<"Hello World"<<endl;
     cout<<"Hello Anee's Mac"<<endl;
-} 
-
+    return 0;
+}
