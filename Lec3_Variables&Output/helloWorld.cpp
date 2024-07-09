@@ -3,6 +3,7 @@ using namespace std;
 int main(){
     
     // cout is used for printing in c++
+    // cout is used in taking output 
     cout<<"Hello World"<<endl;
     cout<<"Hello Anee's Mac"<<endl;
 
