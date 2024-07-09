@@ -7,3 +7,6 @@ Variables -->
 1. lowercase - teacontainer
 2. uppercase - INTCONTAINER
 3. camelcase - teaContainer
+
+Variables decleration -->
+int apple = 4 Here (int - datatype) (apple - variable) (4 - value)
