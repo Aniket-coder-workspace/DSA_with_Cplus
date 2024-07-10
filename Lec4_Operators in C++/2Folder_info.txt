@@ -12,4 +12,7 @@ Operators in C++ -->
 . - Substraction
 . Multiplication
 . / Division
-
+. % Modulus -- Use for to find "remainder"
+. ++ Increment
+. -- Decrement 
+ 
