@@ -7,6 +7,7 @@ Operators in C++ -->
 5. Bitwise Operators
 6. Misc Operators
 
+
 1. Arithmetic Operators -->
 . + Additon
 . - Substraction
@@ -14,5 +15,14 @@ Operators in C++ -->
 . / Division
 . % Modulus -- Use for to find "remainder"
 . ++ Increment
-. -- Decrement 
+. -- Decrement  
+
+
+2. Relational Operators --> This give "true = 1" or "false = 0"
+. = is equal to
+. ! not equal to
+. > greater than
+. < less than
+. >= greater than eual to 
+. <= less than eual to
  
