@@ -1,0 +1,15 @@
+Operators in C++ -->
+
+1. Arithmetic Operators
+2. Relational Operators
+3. Logical Operators
+4. Assignment Operators
+5. Bitwise Operators
+6. Misc Operators
+
+1. Arithmetic Operators -->
+. + Additon
+. - Substraction
+. Multiplication
+. / Division
+
