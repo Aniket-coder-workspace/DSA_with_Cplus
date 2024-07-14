@@ -25,4 +25,8 @@ Operators in C++ -->
 . < less than
 . >= greater than eual to 
 . <= less than eual to
- 
+
+3. Logical Operators --> 
+. && (logical AND) 
+. || (logical OR)
+. ! (logical NOT)
