@@ -30,3 +30,10 @@ Operators in C++ -->
 . && (logical AND) Expere. 1 and Expere. 2 both are true so ans:- true
 . || (logical OR) Expere. 1 and Expere. 2 both are false so ans:- false
 . ! (logical NOT) Expere. 1 and Expere. 2 can be changed (true to false) or false to true
+
+4. Assignment Operators -->
+. = 
+. +=
+. -=
+. /=
+. %= 
