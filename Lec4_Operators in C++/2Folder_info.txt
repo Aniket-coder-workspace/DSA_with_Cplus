@@ -32,8 +32,12 @@ Operators in C++ -->
 . ! (logical NOT) Expere. 1 and Expere. 2 can be changed (true to false) or false to true
 
 4. Assignment Operators -->
-. = 
+. =
 . +=
 . -=
 . /=
 . %= 
+
+5. Bitwise Operators -->
+. ~ Bitwise Complement
+. << Left shift
