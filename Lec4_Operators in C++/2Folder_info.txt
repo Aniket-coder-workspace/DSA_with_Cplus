@@ -45,3 +45,12 @@ Operators in C++ -->
 . | Bitwise OR
 . & Bitwise AND
 . ^ Bitwise exclusive OR  
+
+6. Misc Operator -->
+. SizeOf operator 
+. condition ? expression1 : expression2
+. Comma operator 
+. dot and arrow operator
+. casting operator
+. & Address operator
+. * pointer operator
