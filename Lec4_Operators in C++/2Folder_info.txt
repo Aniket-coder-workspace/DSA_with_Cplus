@@ -40,4 +40,8 @@ Operators in C++ -->
 
 5. Bitwise Operators -->
 . ~ Bitwise Complement
-. << Left shift
+. << Left shift -- multiply by 2
+. >> Right shift -- divide by 2
+. | Bitwise OR
+. & Bitwise AND
+. ^ Bitwise exclusive OR  
