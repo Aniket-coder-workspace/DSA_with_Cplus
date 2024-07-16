@@ -54,3 +54,18 @@ Operators in C++ -->
 . casting operator
 . & Address operator
 . * pointer operator
+
+7. Unary operators -->
+. + Unary plus
+. - Unary minus
+. ++ Increment operator --> This is Post - incremen
+. -- Decrement operator --> This is Pre - increment 
+
+[Post - increment operator & Pre - increment operator]
+
+for ex:- 
+int a = 7;
+cout<<a++; it first print it then incremnt it // here output is 7
+
+int b = 8;
+cout<<++b; it first incremnt it then print it // here output is 9
