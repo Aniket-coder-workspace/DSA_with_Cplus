@@ -19,8 +19,8 @@ Operators in C++ -->
 
 
 2. Relational Operators --> This give "true = 1" or "false = 0"
-. = is equal to
-. ! not equal to
+. == is equal to
+. != not equal to
 . > greater than
 . < less than
 . >= greater than eual to 
