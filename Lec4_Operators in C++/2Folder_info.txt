@@ -11,7 +11,7 @@ Operators in C++ -->
 1. Arithmetic Operators -->
 . + Additon
 . - Substraction
-. Multiplication
+. * Multiplication
 . / Division
 . % Modulus -- Use for to find "remainder"
 . ++ Increment
