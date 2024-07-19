@@ -49,5 +49,6 @@ int main(){
     cout<<!d<<endl; // !d (!true) = false logical not creates false to true and 
     cout<<!f<<endl; // !d (!true) = false                       true to false 
 
+    cout<<"hello, world"<<endl;
     return 0;
 }
