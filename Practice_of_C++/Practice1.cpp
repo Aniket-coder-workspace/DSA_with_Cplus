@@ -50,5 +50,10 @@ int main(){
     cout<<!f<<endl; // !d (!true) = false                       true to false 
 
     cout<<"hello, world"<<endl;
+
+    // Taking input from user
+    int number;
+    cin>>number;
+    cout<<"Enter a number:- "<<number<<endl;;
     return 0;
 }
