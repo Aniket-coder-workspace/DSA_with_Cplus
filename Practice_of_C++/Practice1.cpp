@@ -51,9 +51,9 @@ int main(){
 
     cout<<"hello, world"<<endl;
 
-    // Taking input from user
-    int number;
-    cin>>number;
-    cout<<"Enter a number:- "<<number<<endl;;
+    // Taking input from user and sum of that two mubers
+    int num11, num12;
+    cin>>num11>>num12;
+    cout<<"Sum of two number is:- "<<(num11 + num12)<<endl;
     return 0;
 }
