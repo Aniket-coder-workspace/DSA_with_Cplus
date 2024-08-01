@@ -23,13 +23,13 @@ int main(){
     // double n = 78.1234;
 
     int x;
-    int b;
     cin>>x;
-    cin>>b;
-    if (x == 5){
-        cout<<"Digit is called 5";
+    if (x > 0){
+        cout<<"The given number is positive number";
+    }else if (x < 0){
+         cout<<"The given number is negative number";
     }else{
-        cout<<"Digit is not called 5";
+        cout<<"The given number is 0";
     }
 
 
