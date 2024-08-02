@@ -31,8 +31,6 @@ int main(){
     }else{
         cout<<"The given number is 0";
     }
-
-
-
+    
     return 0;
 }
